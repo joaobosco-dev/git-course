@@ -3,3 +3,5 @@
 primeiro repositorio com git
 
 OI OI OI OI OI 
+
+Comunicando com o repositorio remoto
